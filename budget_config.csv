@@ -1,0 +1,2 @@
+monthly_salary,expense_allocation_type,expense_allocation_value,savings_allocation_type,savings_allocation_value,expense_budget,expense_balance,savings_budget,savings_balance,total_spent,savings_used_for_expenses,last_updated
+30000.0,fixed amount,15000.0,fixed amount,15000.0,15000.0,3200.0,15000.0,15000.0,11800.0,0.0,2026-02-03 11:59:13
